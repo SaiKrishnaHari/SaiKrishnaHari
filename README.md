@@ -10,28 +10,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-krishna-hari-091b33231" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hari%20Sai%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
   </a>
-  <a href="https://sai-portfolio-b7d16aa3.base44.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  &nbsp;&nbsp;
   <a href="mailto:saikrishnahari196@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-saikrishnahari196%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45"/>
   </a>
-  <a href="https://github.com/SaiKrishnaHari">
-    <img src="https://img.shields.io/badge/GitHub-SaiKrishnaHari-000000?style=for-the-badge&logo=github"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SaiKrishnaHari" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sai-portfolio-b7d16aa3.base44.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="45" height="45"/>
   </a>
 </p>
-
----
-
-## 🌐 Connect With Me  
-
-🔗 LinkedIn  
-👉 https://www.linkedin.com/in/sai-krishna-hari-091b33231  
-
-🌍 Portfolio  
-👉 https://sai-portfolio-b7d16aa3.base44.app/  
 
 ---
 
@@ -68,13 +61,17 @@
 ---
 
 ## 🌿 Plant Disease Detection  
-✔ 92% CNN accuracy  
+**CNN | TensorFlow | Flask**
+
+✔ 92% classification accuracy  
 ✔ Image preprocessing & augmentation  
 ✔ Real-time web-based prediction  
 
 ---
 
 ## 🌾 Crop Recommendation System  
+**Machine Learning | Flask**
+
 ✔ Optimized regression model  
 ✔ 25% accuracy improvement  
 ✔ Interactive Flask deployment  
@@ -82,6 +79,7 @@
 ---
 
 ## 🤖 NLP Systems  
+
 ✔ Context-aware Spell Checker  
 ✔ Therapy Chatbot with Sentiment Analysis  
 ✔ Intent Recognition Pipeline  
@@ -106,7 +104,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=140&section=footer"/>
 </p>
 
 <p align="center">
