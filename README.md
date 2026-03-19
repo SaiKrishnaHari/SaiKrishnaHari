@@ -1,112 +1,73 @@
-<h1 align="center">Hi 👋, I'm Hari Sai Krishna</h1>
+# Hi there, I'm Hari Sai Krishna 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Computer+Vision+Developer;NLP+Specialist;Flask+%7C+Cloud+%7C+Deployment;I+Build+AI+That+Goes+Into+Production+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;AI+%2F+ML+Engineer;Generative+AI+Enthusiast;NLP+%26+Computer+Vision+Specialist" />
 </p>
 
 ---
 
-<h3 align="center">🚀 AI/ML Engineer | Python Developer | Computer Vision Specialist</h3>
+### 🚀 About Me
+I am a **Python Backend Developer** and **AI/ML Engineer** dedicated to building intelligent, scalable systems. I bridge the gap between complex machine learning research and real-world production applications. [cite_start]Currently, I am pursuing my **B.Tech in Computer Science (AI & ML)** at Malla Reddy University[cite: 74, 75, 94].
 
+- 🧠 **Focus**: High-performance REST APIs, Generative AI, and Computer Vision.
+- [cite_start]⚡ **Achievement**: Improved application efficiency by **20-25%** through rigorous model tuning.
+- [cite_start]📍 **Location**: Hyderabad, India[cite: 55, 72].
+- [cite_start]🎓 **Education**: B.Tech in CS (AI & ML), Class of 2026[cite: 95, 96].
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Backend** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML / Data Science** ![NLTK](https://img.shields.io/badge/NLTK-green?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-Neural_Networks-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-LLMs-orange?style=for-the-badge)
+
+---
+
+### 📂 Featured Projects
+
+#### 🌿 **Plant Disease Detection System**
+* [cite_start]Developed a detection system using **Convolutional Neural Networks (CNNs)**.
+* [cite_start]Achieved **92% classification accuracy** for real-time plant health monitoring.
+
+#### 🤖 **Therapy Chatbot for Stress Management**
+* [cite_start]Built an AI-powered conversational agent using **NLP and Generative AI**[cite: 77].
+* [cite_start]Designed to provide automated support for mental well-being and stress relief[cite: 77].
+
+#### 🆔 **Smart Student Attendance System**
+* [cite_start]Integrated **QR Codes and Facial Recognition** to automate classroom attendance[cite: 78].
+* [cite_start]Significantly improved administrative efficiency and data accuracy[cite: 78].
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-krishna-hari-091b33231" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:saikrishnahari196@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/SaiKrishnaHari" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://sai-portfolio-b7d16aa3.base44.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="45" height="45"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaHari&show_icons=true&theme=transparent" alt="Hari's GitHub Stats" />
 </p>
 
 ---
 
-## 💡 About Me  
-
-🎓 B.Tech CSE (AIML) | CGPA: 8.64  
-📍 Hyderabad, India  
-
-💻 I build AI-powered production-ready systems  
-🧠 Specialized in Machine Learning, NLP & Computer Vision  
-⚙️ Deploying models using Flask, Docker & Cloud  
+### 🏆 Certifications
+* [cite_start]**AWS Academy Graduate** [cite: 67]
+* [cite_start]**Generative AI Foundations** [cite: 67]
+* [cite_start]**Programming in Java** [cite: 66]
+* [cite_start]**Python Programming Essentials** [cite: 67]
+* [cite_start]**AI For Everyone** (DeepLearning.AI) [cite: 68]
 
 ---
 
-# 🧠 Tech Arsenal  
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,flask,tensorflow,opencv,mysql,mongodb,docker,aws,git,vscode" />
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/hari-sai-krishna-091b33231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hari Sai Krishna" height="30" width="40" /></a>
+<a href="mailto:saikrishnahari168@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="35" /></a>
+<a href="https://sai-portfolio-b7d16aa3.base44.app/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="30" width="35" /></a>
 </p>
 
----
-
-# 🚀 Featured Projects  
-
-## 🎓 Smart Attendance System  
-**QR Code + Face Recognition | OpenCV | Flask**
-
-✔ Dual authentication system  
-✔ Real-time face encoding & matching  
-✔ Anti-proxy attendance logic  
-✔ Timestamp-based attendance tracking  
-✔ Admin dashboard with reporting  
-
----
-
-## 🌿 Plant Disease Detection  
-**CNN | TensorFlow | Flask**
-
-✔ 92% classification accuracy  
-✔ Image preprocessing & augmentation  
-✔ Real-time web-based prediction  
-
----
-
-## 🌾 Crop Recommendation System  
-**Machine Learning | Flask**
-
-✔ Optimized regression model  
-✔ 25% accuracy improvement  
-✔ Interactive Flask deployment  
-
----
-
-## 🤖 NLP Systems  
-
-✔ Context-aware Spell Checker  
-✔ Therapy Chatbot with Sentiment Analysis  
-✔ Intent Recognition Pipeline  
-
----
-
-# 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaHari&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKrishnaHari&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🌱 Currently Mastering  
-
-🚀 Generative AI & LLMs  
-⚙️ MLOps & Deployment Pipelines  
-🏗 Scalable System Design  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=140&section=footer"/>
-</p>
-
-<p align="center">
-⚡ <b>I don’t just train models — I deploy them into real-world systems.</b> 🚀
-</p>
+[cite_start]*"I don’t just train models — I deploy them into real-world systems."* [cite: 82]
