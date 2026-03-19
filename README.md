@@ -1,28 +1,39 @@
-# 👋 Hi, I'm Hari Sai Krishna  
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Hari Sai Krishna</h1>
+<h3 align="center">🚀 Python Backend Developer | 🤖 AI/ML Engineer | 🧠 Generative AI</h3>
 
-<h3 align="center">🚀 Python Backend Developer | 🤖 AI/ML Engineer | 🧠 Generative AI Enthusiast</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Python+Developer;AI%2FML+Engineer;Flask+%7C+REST+APIs;NLP+%7C+Computer+Vision;Open+to+Work" />
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaiKrishnaHari&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🌟 About Me  
-💡 Passionate about building intelligent and scalable applications using **AI & Backend technologies**  
+💡 Passionate about building **AI-powered real-world applications**  
 🎓 B.Tech in Computer Science (AI & ML)  
-⚡ Love solving real-world problems with **Machine Learning & APIs**  
+⚡ Focused on **Backend + Machine Learning Integration**  
+📈 Improved model performance by **20–25%** in real projects  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 👨‍💻 Languages & Backend  
+### 👨‍💻 Backend & Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 
 ### 🤖 AI / ML  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9C27B0?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4081?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-9C27B0?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge)
 
 ### 🌐 Web  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,33 +42,37 @@
 
 ---
 
-## 🔥 Projects  
+## 🔥 Featured Projects  
 
 ### 🧠 Therapy Chatbot  
 ✔ NLP + Generative AI  
-✔ Stress management assistant  
+✔ Mental health support chatbot  
 
 ### 📷 Smart Attendance System  
 ✔ QR Code + Face Recognition  
-✔ Automated attendance system  
+✔ Fully automated attendance  
 
 ### 🌿 Plant Disease Detection  
 ✔ CNN Model  
 ✔ 92% Accuracy  
-✔ Optimized performance by 20–25%  
+✔ Performance optimized  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiKrishnaHari&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKrishnaHari&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrishnaHari&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-## 🏆 Achievements & Certifications  
+## 🏆 Certifications  
 🏅 AWS Academy – Generative AI Foundations  
 🏅 Python Programming Essentials  
 🏅 Programming in Java  
@@ -69,15 +84,13 @@
 
 **💻 Web Development Intern – CodeAlpha**  
 📅 Mar 2024 – Apr 2024  
-✔ Built responsive apps using Flask, HTML, CSS, JS  
-✔ Improved UI/UX and performance  
+✔ Built responsive Flask apps  
+✔ Improved UI/UX and speed  
 
 ---
 
-## 🎯 Goals  
-🚀 Become a top AI/ML Engineer  
-🌍 Build impactful real-world solutions  
-📈 Contribute to Open Source  
+## 🎯 Career Objective  
+To secure a role in **AI/ML or Backend Development**, where I can build scalable systems and contribute to impactful products.
 
 ---
 
@@ -100,10 +113,10 @@
 
 ---
 
-## ⭐ Support Me  
-If you like my work, give ⭐ to my repositories and follow me!
+## ⭐ Support  
+If you like my work, give ⭐ and follow me!
 
 ---
 
-## 🔥 Fun Quote  
-_"Code. Learn. Build. Repeat."_ 🚀
+## 🔥 Quote  
+_"First, solve the problem. Then, write the code."_ 💡
